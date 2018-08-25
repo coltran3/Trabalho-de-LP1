@@ -1,0 +1,3 @@
+C:/Users/Lucas/CLionProjects/Trabalho de LP1 do surf/cmake-build-debug/CMakeFiles/Trabalho_de_LP1_do_surf.dir
+C:/Users/Lucas/CLionProjects/Trabalho de LP1 do surf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lucas/CLionProjects/Trabalho de LP1 do surf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
